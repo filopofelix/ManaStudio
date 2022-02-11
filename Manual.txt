@@ -5,3 +5,8 @@ git push origin masterqa (en main)
 git push origin master (en main)
 git status
 git clone https://github.com/filopofelix/ManaStudio
+
+## para cambiar de rama
+git checkout "nombre rama"
+git fetch (actualizar)
+git merge main
