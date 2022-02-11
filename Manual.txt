@@ -1,7 +1,0 @@
-git add .
-git commit -m "tri commit" (en main
-git pull https://github.com/filopofelix/ManaStudio
-git push origin masterqa (en main)
-git push origin master (en main)
-git status
-git clone https://github.com/filopofelix/ManaStudio
